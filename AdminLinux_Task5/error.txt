@@ -1,0 +1,4 @@
+groupadd: Permission denied.
+groupadd: cannot lock /etc/group; try again later.
+Failed to create group 'FamilyName'.
+id: ‘yourname’: no such user
